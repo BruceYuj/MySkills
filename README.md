@@ -1,11 +1,6 @@
----
-title: 我的技能树(现在和未来)
-tags: 新建,模板,小书匠
-grammar_cjkRuby: true
----
-[toc]
+# MySkills
+This is the repository about my skills.
 
----
 ## 目的(github实时更新)
 画出自己的技能树好处：
 1. 可以可视化自己目前的技术能力
@@ -128,3 +123,6 @@ grammar_cjkRuby: true
 
 
   [1]: ./images/17-3-1.jpg "0001.jpg"
+
+
+
